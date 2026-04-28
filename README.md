@@ -1,4 +1,4 @@
-# 🌿 Performance Plant Co. — Power BI Dashboard
+# 🌿 Performance Plant Co.
 
 > A full end-to-end Business Intelligence project built with Power BI, covering data modeling, DAX measures, and interactive visualizations for a plant distribution company.
 
